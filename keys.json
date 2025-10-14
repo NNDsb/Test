@@ -1,4 +1,18 @@
 {
-  "keys": ["Midori", "Momoi", "Miyu", "Haruka", "Kayoko", "Mafuyu", "Hina", "Hikari", "Ako"],
-  "used": ["OLDKEY999", "NEWKEY2025", "ABC123"]
+  "keys": [
+    { "key": "Midori", "device": "123456abcdef7890" },
+    { "key": "Momoi", "device": "abcdef1234567890" },
+    { "key": "Miyu", "device": "1122334455667788" },
+    { "key": "Haruka", "device": "9988776655443322" },
+    { "key": "Kayoko", "device": "aaaabbbbccccdddd" },
+    { "key": "Mafuyu", "device": "1111222233334444" },
+    { "key": "Hina", "device": "5555666677778888" },
+    { "key": "Hikari", "device": "99990000aaaa1111" },
+    { "key": "Ako", "device": "bbbbccccddddffff" }
+  ],
+  "used": [
+    "OLDKEY999",
+    "NEWKEY2025",
+    "ABC123"
+  ]
 }
