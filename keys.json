@@ -1,1 +1,4 @@
-
+{
+  "keys": ["ABC123", "NEWKEY2025"],
+  "used": ["OLDKEY999"]
+}
