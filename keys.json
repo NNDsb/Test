@@ -2,18 +2,19 @@
   "keys": [
     { "key": "Midori", "device": "d04c221aba2464b31d71ba08f2537e0239d21a4958d790452e133bddfb480edc" },
     { "key": "Momoi", "device": "8fc4a7cec4720f55be8995b95ef2f14197c8ac8528ec352e688326732b6d5667" },
-    { "key": "Miyu", "device": "4c10b281b1e568e475b4e0dc3617c3e52009741577868ec47b27faa1e120665e" },
     { "key": "Haruka", "device": "9988776655443322" },
     { "key": "Kayoko", "device": "aaaabbbbccccdddd" },
     { "key": "Mafuyu", "device": "1111222233334444" },
     { "key": "Hina", "device": "1de170bdf8266f87f725a7a914a687573394b34f342f4d8ba3de10a8229bfee4" },
     { "key": "Hina2", "device": "2e2709c9719f422bb53fc91ea2018b7784276ad9fc93677c5afff09a063a9a11" },
     { "key": "Hikari", "device": "0b13deb0056210e64e6ccaa2f3588885f5ec8f65f6f77a80751014e4ec647b94" },
-    { "key": "Ako", "device": "f14fc9e39c28bce9cc98be51e8f26d7c23a348aa6ceab8f1facef5a609632a52" }
+    { "key": "Ako", "device": "f14fc9e39c28bce9cc98be51e8f26d7c23a348aa6ceab8f1facef5a609632a52" },
+    { "key": "TempTest", "device": "4c10b281b1e568e475b4e0dc3617c3e52009741577868ec47b27faa1e120665e" }
   ],
   "used": [
     "OLDKEY999",
     "NEWKEY2025",
-    "ABC123"
+    "ABC123",
+    "Miyu"
   ]
 }
